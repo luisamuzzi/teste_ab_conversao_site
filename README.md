@@ -2,7 +2,7 @@
 
 ### Resumo
 
-Esse projeto consistiu no design e realização de um experimento com objetivo de verificar se a alteração de design em uma página de e-commerce poderia resultar em um aumento de conversão dos usuários.
+Esse projeto consistiu no design e realização de um experimento com objetivo de verificar se a alteração de layout em uma página de e-commerce poderia resultar em um aumento de conversão dos usuários.
 
 Para tanto, estabeleceu-se a meta de aumento desejada na taxa de conversão e determinou-se o tamanho da amostra necessária para comprovação do efeito esperado. Após a coleta de dados, as taxas de conversão dos grupos de controle e de tratamento foram comparadas por meio de um teste Z para proporção de duas amostras independentes.
 
