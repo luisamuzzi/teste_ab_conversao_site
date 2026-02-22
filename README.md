@@ -101,7 +101,7 @@ O cálculo do tamanho da amostra está relacionado à análise de poder do teste
 - Tamanho do efeito: quanto maior o tamanho do efeito, menor a probabilidade de ser um erro aleatório.
 - Variabilidade: Quando os dados da amostra têm maior variabilidade, é mais provável que o erro de amostragem aleatória produza diferenças consideráveis entre os grupos experimentais, mesmo quando não há efeito real.
 
-Portanto, para calcular o tamanho amostral necessário para um experimento, precisamos especificar o poder estatísico, o tamanho do efeito que queremos atingir e a variabilidade.
+Portanto, para calcular o tamanho amostral necessário para um experimento, precisamos especificar o poder estatístico, o tamanho do efeito que queremos atingir e a variabilidade.
 
 *Uso do GPower para calcular o tamanho da amostra:*
 
