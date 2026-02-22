@@ -66,7 +66,7 @@ pₒ -> Taxa de conversão do site antigo
 
 Nosso nível de confiança será de 95% (alpha = 5%).
 
-O teste é bicaudal porque não sabemos se o desempenho da nova página será melhor, pior ou igual que a página atual. 
+O teste é bicaudal porque não sabemos se o desempenho da nova página será melhor, pior ou igual à página atual. 
 Não há problema em realizar o teste bicaudal porque se o resultado for significativo e o valor de p for maior que pₒ na amostra, também o será na população.
 
 *Cálculo da medida atual da métrica de sucesso:*
