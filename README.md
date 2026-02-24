@@ -98,7 +98,7 @@ Um tamanho maior de amostra nos permite estimativas mais precisas. No entanto, u
 O cálculo do tamanho da amostra está relacionado à análise de poder do teste. O poder estatístico é a probabilidade de se detectar corretamente um efeito; o poder é influenciado por três fatores:
 
 - Tamanho da amostra: tamanhos maiores permitem a detecção de efeitos menores pelo teste de hipóteses.
-- Tamanho do efeito: quanto maior o tamanho do efeito, menor a probabilidade de ser um erro aleatório.
+- Tamanho do efeito: tamanhos de efeito maiores são mais fáceis de detectar.
 - Variabilidade: Quando os dados da amostra têm maior variabilidade, é mais provável que o erro de amostragem aleatória produza diferenças consideráveis entre os grupos experimentais, mesmo quando não há efeito real.
 
 Portanto, para calcular o tamanho amostral necessário para um experimento, precisamos especificar o poder estatístico, o tamanho do efeito que queremos atingir e a variabilidade.
